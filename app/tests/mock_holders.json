@@ -1,0 +1,17 @@
+[
+  { "username": "user1", "password": "pass1", "email": "user1@example.com", "age": 25 },
+  { "username": "user2", "password": "pass2", "email": "user2@example.com", "age": 30 },
+  { "username": "user3", "password": "pass3", "email": "user3@example.com", "age": 22 },
+  { "username": "creative1", "password": "cr3@t1v3P@ss", "email": "creative1@mail.com", "age": 28 },
+  { "username": "databaseGuy", "password": "D@tab@se123", "email": "dbguy@gmail.com", "age": 31 },
+  { "username": "sqlMaster", "password": "SQLM@st3r", "email": "sql@master.com", "age": 35 },
+  { "username": "dataWhiz", "password": "D@t@W1z21", "email": "data@whiz.net", "age": 27 },
+  { "username": "coderLife", "password": "C0d3rL1f3", "email": "coder@life.org", "age": 29 },
+  { "username": "adminUser", "password": "Adm1nP@ss", "email": "admin@user.com", "age": 30 },
+  { "username": "pythonLover", "password": "Pyth0nL0v3r", "email": "python@lover.com", "age": 26 },
+  { "username": "webDevPro", "password": "W3bD3vP@ss", "email": "web@devpro.com", "age": 32 },
+  { "username": "testerGuy", "password": "T3st3rP@ss", "email": "tester@guy.com", "age": 23 },
+  { "username": "geekyGamer", "password": "G33kyG@m3r", "email": "geeky@gamer.com", "age": 27 },
+  { "username": "startupGenius", "password": "St@rtupGen1us", "email": "startup@genius.com", "age": 34 },
+  { "username": "techNinja", "password": "$2b$12$oykS0SpLf8PTSgaT86pSI.bUeceBoxU0yOUYITSSCtC9cKAnqQ3JK", "email": "tech@ninja.com", "age": 33 }
+]

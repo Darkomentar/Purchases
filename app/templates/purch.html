@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        {% for unit in purch%}
+        <div>
+            <h3>ID: {{unit.id_tickers}}  PRICE: {{unit.purchase_price}}</h3>
+            <h3>ОБЪЕМ: {{unit.volume}} </h3>
+            <h4>{{unit.purchase_date}} - {{unit.selling_date}}       DELTA DAY: {{unit.delta_day}}</h4>
+        </div>
+        {% endfor%}
+    </div>
+</body>
+</html>

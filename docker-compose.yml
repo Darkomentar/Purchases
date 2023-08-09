@@ -1,0 +1,78 @@
+version: '3.7'
+services: 
+  db: 
+    image: postgres:15
+    container_name: purchases_db
+    volumes:
+      - postgresdata:/var/lib/postgresql/data
+    env_file:
+      - .env-non-dev
+    ports:
+      - 5432:5432
+
+  redis:
+    image: redis:5
+    container_name: purchases_redis
+
+  purchase:
+    image: purchases_image
+    build:
+      context: .
+    container_name: purchases_app
+    env_file:
+      - .env-non-dev
+    depends_on:
+      - db
+      - redis
+    command: ["/purchases/docker/app.sh"]
+    ports:
+      - :9000:8000
+  
+  celery:
+    image: purchases_celeryy
+    build:
+      context: .
+    container_name: purchases_celeryy
+    command: ["/purchases/docker/celery.sh", "celery"]
+    env_file:
+      - .env-non-dev
+    depends_on:
+      - redis
+  
+  flower:
+    image: purchases_flowerr
+    build:
+      context: .
+    container_name: purchases_flowerr
+    command: ["/purchases/docker/celery.sh", "flower"]
+    env_file:
+      - .env-non-dev
+    depends_on:
+      - redis
+    ports:
+      - :5555:5555
+
+  prometheus:
+    image: prom/prometheus:v2.43.0
+    container_name: prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheusdata:/prometheus
+    restart: unless-stopped
+    ports:
+      - 9090:9090
+
+  grafana:
+    image: grafana/grafana:9.4.7
+    container_name: grafana
+    volumes:
+      - grafanadata:/var/lib/grafana
+    restart: unless-stopped
+    ports:
+      - 3000:3000
+
+  
+volumes:
+  postgresdata:
+  grafanadata:
+  prometheusdata:

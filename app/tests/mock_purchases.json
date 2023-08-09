@@ -1,0 +1,602 @@
+[
+  {
+    "id_holders": 1,
+    "id_tickers": 4,
+    "purchase_price": 300,
+    "volume": 3000,
+    "purchase_date": "2022-03-10",
+    "selling_date": "2023-04-30"
+  },
+  {
+    "id_holders": 1,
+    "id_tickers": 8,
+    "purchase_price": 2000,
+    "volume": 500,
+    "purchase_date": "2019-08-21",
+    "selling_date": "2021-06-09"
+  },
+  {
+    "id_holders": 1,
+    "id_tickers": 12,
+    "purchase_price": 3400,
+    "volume": 700,
+    "purchase_date": "2011-05-10",
+    "selling_date": "2023-01-05"
+  },
+  {
+    "id_holders": 1,
+    "id_tickers": 2,
+    "purchase_price": 150,
+    "volume": 400,
+    "purchase_date": "2020-07-15",
+    "selling_date": "2021-02-09"
+  },
+  {
+    "id_holders": 1,
+    "id_tickers": 14,
+    "purchase_price": 550,
+    "volume": 1000,
+    "purchase_date": "2019-10-12",
+    "selling_date": "2022-08-18"
+  },
+  {
+    "id_holders": 2,
+    "id_tickers": 10,
+    "purchase_price": 750,
+    "volume": 3000,
+    "purchase_date": "2023-04-22",
+    "selling_date": "2023-08-01"
+  },
+  {
+    "id_holders": 2,
+    "id_tickers": 6,
+    "purchase_price": 2000,
+    "volume": 2000,
+    "purchase_date": "2010-02-18",
+    "selling_date": "2021-06-10"
+  },
+  {
+    "id_holders": 2,
+    "id_tickers": 9,
+    "purchase_price": 2800,
+    "volume": 2000,
+    "purchase_date": "2022-10-22",
+    "selling_date": "2023-02-22"
+  },
+  {
+    "id_holders": 2,
+    "id_tickers": 3,
+    "purchase_price": 110,
+    "volume": 5000,
+    "purchase_date": "2021-08-18",
+    "selling_date": "2021-03-22"
+  },
+  {
+    "id_holders": 2,
+    "id_tickers": 15,
+    "purchase_price": 2000,
+    "volume": 600,
+    "purchase_date": "2022-08-15",
+    "selling_date": "2023-06-29"
+  },
+  {
+    "id_holders": 3,
+    "id_tickers": 11,
+    "purchase_price": 1300,
+    "volume": 3500,
+    "purchase_date": "2018-04-25",
+    "selling_date": "2022-04-15"
+  },
+  {
+    "id_holders": 3,
+    "id_tickers": 5,
+    "purchase_price": 850,
+    "volume": 3500,
+    "purchase_date": "2018-03-15",
+    "selling_date": "2021-05-21"
+  },
+  {
+    "id_holders": 3,
+    "id_tickers": 7,
+    "purchase_price": 420,
+    "volume": 700,
+    "purchase_date": "2021-06-30",
+    "selling_date": "2022-03-11"
+  },
+  {
+    "id_holders": 3,
+    "id_tickers": 1,
+    "purchase_price": 280,
+    "volume": 600,
+    "purchase_date": "2019-04-12",
+    "selling_date": "2021-01-11"
+  },
+  {
+    "id_holders": 3,
+    "id_tickers": 13,
+    "purchase_price": 1150,
+    "volume": 800,
+    "purchase_date": "2020-11-20",
+    "selling_date": "2021-12-30"
+  },
+  {
+    "id_holders": 4,
+    "id_tickers": 12,
+    "purchase_price": 3300,
+    "volume": 800,
+    "purchase_date": "2011-03-10",
+    "selling_date": "2023-01-05"
+  },
+  {
+    "id_holders": 4,
+    "id_tickers": 6,
+    "purchase_price": 1900,
+    "volume": 1500,
+    "purchase_date": "2010-01-18",
+    "selling_date": "2021-06-10"
+  },
+  {
+    "id_holders": 4,
+    "id_tickers": 4,
+    "purchase_price": 300,
+    "volume": 3000,
+    "purchase_date": "2022-03-10",
+    "selling_date": "2023-04-30"
+  },
+  {
+    "id_holders": 4,
+    "id_tickers": 2,
+    "purchase_price": 180,
+    "volume": 400,
+    "purchase_date": "2019-06-12",
+    "selling_date": "2021-02-09"
+  },
+  {
+    "id_holders": 4,
+    "id_tickers": 14,
+    "purchase_price": 600,
+    "volume": 900,
+    "purchase_date": "2019-11-12",
+    "selling_date": "2022-08-18"
+  },
+  {
+    "id_holders": 5,
+    "id_tickers": 5,
+    "purchase_price": 1000,
+    "volume": 4500,
+    "purchase_date": "2018-05-12",
+    "selling_date": "2021-05-21"
+  },
+  {
+    "id_holders": 5,
+    "id_tickers": 7,
+    "purchase_price": 420,
+    "volume": 700,
+    "purchase_date": "2021-06-30",
+    "selling_date": "2022-03-11"
+  },
+  {
+    "id_holders": 5,
+    "id_tickers": 1,
+    "purchase_price": 280,
+    "volume": 600,
+    "purchase_date": "2019-04-12",
+    "selling_date": "2021-01-11"
+  },
+  {
+    "id_holders": 5,
+    "id_tickers": 13,
+    "purchase_price": 1150,
+    "volume": 800,
+    "purchase_date": "2020-11-20",
+    "selling_date": "2021-12-30"
+  },
+  {
+    "id_holders": 5,
+    "id_tickers": 11,
+    "purchase_price": 1300,
+    "volume": 3500,
+    "purchase_date": "2018-04-25",
+    "selling_date": "2022-04-15"
+  },
+  {
+    "id_holders": 6,
+    "id_tickers": 8,
+    "purchase_price": 2000,
+    "volume": 500,
+    "purchase_date": "2019-08-21",
+    "selling_date": "2021-06-09"
+  },
+  {
+    "id_holders": 6,
+    "id_tickers": 11,
+    "purchase_price": 1300,
+    "volume": 3500,
+    "purchase_date": "2018-04-25",
+    "selling_date": "2022-04-15"
+  },
+  {
+    "id_holders": 6,
+    "id_tickers": 15,
+    "purchase_price": 1900,
+    "volume": 700,
+    "purchase_date": "2022-07-15",
+    "selling_date": "2023-06-29"
+  },
+  {
+    "id_holders": 6,
+    "id_tickers": 10,
+    "purchase_price": 750,
+    "volume": 3000,
+    "purchase_date": "2023-04-22",
+    "selling_date": "2023-08-01"
+  },
+  {
+    "id_holders": 6,
+    "id_tickers": 3,
+    "purchase_price": 120,
+    "volume": 3000,
+    "purchase_date": "2021-05-12",
+    "selling_date": "2021-03-22"
+  },
+  {
+    "id_holders": 7,
+    "id_tickers": 9,
+    "purchase_price": 2600,
+    "volume": 500,
+    "purchase_date": "2021-11-22",
+    "selling_date": "2023-02-22"
+  },
+  {
+    "id_holders": 7,
+    "id_tickers": 12,
+    "purchase_price": 3300,
+    "volume": 800,
+    "purchase_date": "2011-03-10",
+    "selling_date": "2023-01-05"
+  },
+  {
+    "id_holders": 7,
+    "id_tickers": 15,
+    "purchase_price": 1900,
+    "volume": 700,
+    "purchase_date": "2022-07-15",
+    "selling_date": "2023-06-29"
+  },
+  {
+    "id_holders": 7,
+    "id_tickers": 6,
+    "purchase_price": 1900,
+    "volume": 1500,
+    "purchase_date": "2010-01-18",
+    "selling_date": "2021-06-10"
+  },
+  {
+    "id_holders": 7,
+    "id_tickers": 7,
+    "purchase_price": 420,
+    "volume": 700,
+    "purchase_date": "2021-06-30",
+    "selling_date": "2022-03-11"
+  },
+  {
+    "id_holders": 8,
+    "id_tickers": 10,
+    "purchase_price": 700,
+    "volume": 4500,
+    "purchase_date": "2023-01-22",
+    "selling_date": "2023-08-01"
+  },
+  {
+    "id_holders": 8,
+    "id_tickers": 6,
+    "purchase_price": 1900,
+    "volume": 1500,
+    "purchase_date": "2010-01-18",
+    "selling_date": "2021-06-10"
+  },
+  {
+    "id_holders": 8,
+    "id_tickers": 3,
+    "purchase_price": 110,
+    "volume": 5000,
+    "purchase_date": "2021-08-18",
+    "selling_date": "2021-03-22"
+  },
+  {
+    "id_holders": 8,
+    "id_tickers": 15,
+    "purchase_price": 1900,
+    "volume": 700,
+    "purchase_date": "2022-07-15",
+    "selling_date": "2023-06-29"
+  },
+  {
+    "id_holders": 8,
+    "id_tickers": 9,
+    "purchase_price": 2600,
+    "volume": 500,
+    "purchase_date": "2021-11-22",
+    "selling_date": "2023-02-22"
+  },
+  {
+    "id_holders": 9,
+    "id_tickers": 5,
+    "purchase_price": 1000,
+    "volume": 4500,
+    "purchase_date": "2018-05-12",
+    "selling_date": "2021-05-21"
+  },
+  {
+    "id_holders": 9,
+    "id_tickers": 7,
+    "purchase_price": 420,
+    "volume": 700,
+    "purchase_date": "2021-06-30",
+    "selling_date": "2022-03-11"
+  },
+  {
+    "id_holders": 9,
+    "id_tickers": 1,
+    "purchase_price": 280,
+    "volume": 600,
+    "purchase_date": "2019-04-12",
+    "selling_date": "2021-01-11"
+  },
+  {
+    "id_holders": 9,
+    "id_tickers": 13,
+    "purchase_price": 1150,
+    "volume": 800,
+    "purchase_date": "2020-11-20",
+    "selling_date": "2021-12-30"
+  },
+  {
+    "id_holders": 9,
+    "id_tickers": 11,
+    "purchase_price": 1300,
+    "volume": 3500,
+    "purchase_date": "2018-04-25",
+    "selling_date": "2022-04-15"
+  },
+  {
+    "id_holders": 10,
+    "id_tickers": 14,
+    "purchase_price": 550,
+    "volume": 1000,
+    "purchase_date": "2019-10-12",
+    "selling_date": "2022-08-18"
+  },
+  {
+    "id_holders": 10,
+    "id_tickers": 8,
+    "purchase_price": 2000,
+    "volume": 500,
+    "purchase_date": "2019-08-21",
+    "selling_date": "2021-06-09"
+  },
+  {
+    "id_holders": 10,
+    "id_tickers": 11,
+    "purchase_price": 1500,
+    "volume": 3000,
+    "purchase_date": "2018-05-05",
+    "selling_date": "2022-04-15"
+  },
+  {
+    "id_holders": 10,
+    "id_tickers": 3,
+    "purchase_price": 110,
+    "volume": 5000,
+    "purchase_date": "2021-08-18",
+    "selling_date": "2021-03-22"
+  },
+  {
+    "id_holders": 10,
+    "id_tickers": 1,
+    "purchase_price": 250,
+    "volume": 500,
+    "purchase_date": "2020-07-12",
+    "selling_date": "2022-01-11"
+  },
+  {
+    "id_holders": 11,
+    "id_tickers": 2,
+    "purchase_price": 180,
+    "volume": 400,
+    "purchase_date": "2019-06-12",
+    "selling_date": "2021-02-09"
+  },
+  {
+    "id_holders": 11,
+    "id_tickers": 5,
+    "purchase_price": 850,
+    "volume": 3500,
+    "purchase_date": "2018-03-15",
+    "selling_date": "2021-05-21"
+  },
+  {
+    "id_holders": 11,
+    "id_tickers": 7,
+    "purchase_price": 420,
+    "volume": 700,
+    "purchase_date": "2021-06-30",
+    "selling_date": "2022-03-11"
+  },
+  {
+    "id_holders": 11,
+    "id_tickers": 1,
+    "purchase_price": 280,
+    "volume": 600,
+    "purchase_date": "2019-04-12",
+    "selling_date": "2021-01-11"
+  },
+  {
+    "id_holders": 11,
+    "id_tickers": 13,
+    "purchase_price": 1150,
+    "volume": 800,
+    "purchase_date": "2020-11-20",
+    "selling_date": "2021-12-30"
+  },
+  {
+    "id_holders": 12,
+    "id_tickers": 8,
+    "purchase_price": 2000,
+    "volume": 500,
+    "purchase_date": "2019-08-21",
+    "selling_date": "2021-06-09"
+  },
+  {
+    "id_holders": 12,
+    "id_tickers": 11,
+    "purchase_price": 1300,
+    "volume": 3500,
+    "purchase_date": "2018-04-25",
+    "selling_date": "2022-04-15"
+  },
+  {
+    "id_holders": 12,
+    "id_tickers": 15,
+    "purchase_price": 1900,
+    "volume": 700,
+    "purchase_date": "2022-07-15",
+    "selling_date": "2023-06-29"
+  },
+  {
+    "id_holders": 12,
+    "id_tickers": 10,
+    "purchase_price": 750,
+    "volume": 3000,
+    "purchase_date": "2023-04-22",
+    "selling_date": "2023-08-01"
+  },
+  {
+    "id_holders": 12,
+    "id_tickers": 3,
+    "purchase_price": 120,
+    "volume": 3000,
+    "purchase_date": "2021-05-12",
+    "selling_date": "2021-03-22"
+  },
+  {
+    "id_holders": 13,
+    "id_tickers": 6,
+    "purchase_price": 1800,
+    "volume": 1000,
+    "purchase_date": "2010-02-12",
+    "selling_date": "2021-06-10"
+  },
+  {
+    "id_holders": 13,
+    "id_tickers": 9,
+    "purchase_price": 2600,
+    "volume": 500,
+    "purchase_date": "2021-11-22",
+    "selling_date": "2023-02-22"
+  },
+  {
+    "id_holders": 13,
+    "id_tickers": 12,
+    "purchase_price": 3300,
+    "volume": 800,
+    "purchase_date": "2011-03-10",
+    "selling_date": "2023-01-05"
+  },
+  {
+    "id_holders": 13,
+    "id_tickers": 2,
+    "purchase_price": 150,
+    "volume": 400,
+    "purchase_date": "2020-07-15",
+    "selling_date": "2021-02-09"
+  },
+  {
+    "id_holders": 13,
+    "id_tickers": 14,
+    "purchase_price": 600,
+    "volume": 900,
+    "purchase_date": "2019-11-12",
+    "selling_date": "2022-08-18"
+  },
+  {
+    "id_holders": 14,
+    "id_tickers": 10,
+    "purchase_price": 700,
+    "volume": 4500,
+    "purchase_date": "2023-01-22",
+    "selling_date": "2023-08-01"
+  },
+  {
+    "id_holders": 14,
+    "id_tickers": 6,
+    "purchase_price": 1900,
+    "volume": 1500,
+    "purchase_date": "2010-01-18",
+    "selling_date": "2021-06-10"
+  },
+  {
+    "id_holders": 14,
+    "id_tickers": 3,
+    "purchase_price": 110,
+    "volume": 5000,
+    "purchase_date": "2021-08-18",
+    "selling_date": "2021-03-22"
+  },
+  {
+    "id_holders": 14,
+    "id_tickers": 15,
+    "purchase_price": 2000,
+    "volume": 600,
+    "purchase_date": "2022-08-15",
+    "selling_date": "2023-06-29"
+  },
+  {
+    "id_holders": 14,
+    "id_tickers": 9,
+    "purchase_price": 2600,
+    "volume": 500,
+    "purchase_date": "2021-11-22",
+    "selling_date": "2023-02-22"
+  },
+  {
+    "id_holders": 15,
+    "id_tickers": 5,
+    "purchase_price": 1000,
+    "volume": 4500,
+    "purchase_date": "2018-05-12",
+    "selling_date": "2021-05-21"
+  },
+  {
+    "id_holders": 15,
+    "id_tickers": 7,
+    "purchase_price": 420,
+    "volume": 700,
+    "purchase_date": "2021-06-30",
+    "selling_date": "2022-03-11"
+  },
+  {
+    "id_holders": 15,
+    "id_tickers": 1,
+    "purchase_price": 280,
+    "volume": 600,
+    "purchase_date": "2019-04-12",
+    "selling_date": "2021-01-11"
+  },
+  {
+    "id_holders": 15,
+    "id_tickers": 13,
+    "purchase_price": 1150,
+    "volume": 800,
+    "purchase_date": "2020-11-20",
+    "selling_date": "2021-12-30"
+  },
+  {
+    "id_holders": 15,
+    "id_tickers": 11,
+    "purchase_price": 1300,
+    "volume": 3500,
+    "purchase_date": "2018-04-25",
+    "selling_date": "2022-04-15"
+  }
+]

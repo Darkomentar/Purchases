@@ -1,0 +1,23 @@
+[
+    { "name": "SBER", "price": 250, "volume": 2000000, "part": 80 },
+    { "name": "ALRS", "price": 200, "volume": 2000000, "part": 60 },
+    { "name": "GAZP", "price": 190, "volume": 3000000, "part": 55 },
+    { "name": "ROSN", "price": 300, "volume": 2000000, "part": 70 },
+    { "name": "VKCO", "price": 600, "volume": 1000000, "part": 75 },
+    { "name": "OZON", "price": 2500, "volume": 500000, "part": 50 },
+    { "name": "RUSL", "price": 1500, "volume": 1000000, "part": 40 },
+    { "name": "YNDX", "price": 2000, "volume": 1000000, "part": 90 },
+    { "name": "POLY", "price": 1300, "volume": 800000, "part": 58 },
+    { "name": "RASP", "price": 300, "volume": 2000000, "part": 55 },
+    { "name": "AAPL", "price": 150, "volume": 3000000, "part": 80 },
+    { "name": "GOOGL", "price": 2700, "volume": 1000000, "part": 70 },
+    { "name": "MSFT", "price": 300, "volume": 5000000, "part": 85 },
+    { "name": "AMZN", "price": 3200, "volume": 800000, "part": 60 },
+    { "name": "TSLA", "price": 700, "volume": 2000000, "part": 50 },
+    { "name": "NVDA", "price": 800, "volume": 1500000, "part": 90 },
+    { "name": "JPM", "price": 150, "volume": 4000000, "part": 75 },
+    { "name": "V", "price": 250, "volume": 3000000, "part": 65 },
+    { "name": "MA", "price": 300, "volume": 2000000, "part": 80 },
+    { "name": "WMT", "price": 140, "volume": 3500000, "part": 45 }
+  ]
+  
